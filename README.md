@@ -1,4 +1,4 @@
-[You can visit my site from this link]( https://gsg-g8.github.io/Rawan-Porportfolio/.)
+[You can visit my site from this link](https://gsg-g8.github.io/Rawan-Portfolio/)
  # Rawan-portfolio
 
 
