@@ -159,3 +159,75 @@ button{
 }
 
 /* MY SKILL STYLE*/
+  
+.skill-section{
+    padding: 60px 0;
+    margin-bottom: 400px;
+    margin-top: 0px;
+  }
+  .inner-width{
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+    padding: 0 20px;
+    overflow: hidden;
+    margin-bottom: 100px;
+  }
+  .skill-title{
+    text-align: center;
+    color: rgb(5, 5, 5);
+    text-transform: uppercase;
+    font-size: 35px;
+    margin-bottom: 100px;
+    margin-top: 40px;
+  }
+  .border{
+    width: 160px;
+    height: 2px;
+    background: #070f11;
+    margin: 40px auto;
+  }
+  .skill-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .skill-box{
+    max-width: 33.33%;
+    padding: 10px;
+    text-align: center;
+    color: rgb(12, 11, 11);
+    cursor: pointer;
+  }
+  
+  .skill-icon{
+    display: inline-block;
+    width: 90px;
+    height: 90px;
+    border: 3px solid #0b0c0c;
+    color: #0a0e0f;
+    transform: rotate(45deg);
+    margin-bottom: 30px;
+    margin-top: 16px;
+    transition: 0.5s linear;
+  }
+  .skill-icon i{
+    line-height: 70px;
+    transform: rotate(-45deg);
+    font-size: 26px;
+  }
+  .skill-box:hover .skill-icon{
+    background: #070808;
+    color: #000000;
+  }
+  .skill-title{
+    text-transform: uppercase;
+    margin-bottom: 10px;
+  }
+  .skill-description{
+    font-size: 20px;
+  }
+
+  /* The Contact Section Style */
+  
