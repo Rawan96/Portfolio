@@ -319,3 +319,14 @@ button{
 }
 
 /* The Footer Section */
+.copyright {
+    text-align: center;
+    background-color: rgb(16, 20, 16);
+    color: white;
+    padding: 15px;
+    font-weight: bold;
+    margin: 0 auto;
+  }
+
+/* Media Query*/
+
