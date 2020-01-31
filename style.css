@@ -329,4 +329,179 @@ button{
   }
 
 /* Media Query*/
+@media screen and (max-width: 1618px){
+    .details-about-me{
+        display: inline-block;
+    }
+
+    .about-me{
+        display: inline;
+    }
+  }
+
+  @media screen and (max-width: 1539px){
+   
+
+    #about-img{
+        height: 150px;
+        width: 500px;
+    }
+
+    h1{
+        
+        font-size: 40px;
+    }
+  }
+
+  @media screen and (max-width: 1369px){
+    #about-img{
+        height: 120px;
+        width: 400px;
+    }
+
+  }
+
+  
+  @media screen and (max-width: 1080px){
+    #about-img{
+        height: 100px;
+        width: 300px;
+    }
+
+    h1{
+        
+        font-size: 30px;
+    }
+
+    
+.logo{
+  
+    font-size: 20px;
+}
+
+.main-nav li a{ 
+   
+    font-size: 20px;
+}
+
+  }
+
+  @media screen and (max-width: 789px){
+   .container{
+    margin-left: 222px;
+    margin-top: 43px;
+    }
+   
+   .about-me .about-container .details-about-me{
+       margin-top: 110px;
+   }
+
+  }
+
+
+  @media screen and (max-width: 719px){
+
+ h1{
+        
+        font-size: 20px;
+        margin-left: -60px;
+    }
+
+   .main-para{
+        font-size: 15px;
+        margin-left: -60px;
+    }
+
+    .logo{
+  
+        font-size: 15px;
+    }
+    
+    .main-nav li a{ 
+       
+        font-size: 15px;
+    }
+
+}
+
+@media (min-width: 0px) and (max-width: 600px) {
+    .heading-container{
+       margin-right: -45px;
+    }
+
+    .main-nav li a {
+        16px;
+    }
+
+    .btn {
+        font-size: 17px;
+    }
+
+    .container{
+        margin-left: 95px;
+        margin-top: 34px;
+    }
+
+    .about-me .about-container .details-about-me{
+        width: 300px;
+    }
+
+    .skill-section {
+        padding: 17px 0;
+    }
+
+    .skill-title{
+        margin-left: auto;
+    }
+
+    .border {
+        width: 143px;
+        margin: 17px auto;
+    }
+
+    .skill-container {
+        display: flex;
+        flex-direction: column;
+        margin-left: 56px;
+    
+    
+    }
+    .skill-box {
+        max-width: 100.33%;
+        padding: 10px;
+        margin-left: -4px;
+
+    }
+
+    .left{
+        height: 0px;
+        width: 0px;
+    }
+
+    .right {
+        padding: 25px 40px;
+        height: 500px;
+        margin-top: 4px;
+    }
+
+    .skill-section{
+        margin-bottom: 0px;
+    }
+
+    .contact-box{
+        margin-left: 35px;
+    }
+
+    .footer-editing{
+        width:100%;
+    }
+
+    .copyright{
+        width: 459px;
+    }
+
+    button { 
+        0px 0px;
+    }
+    }
 
